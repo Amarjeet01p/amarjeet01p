@@ -8,7 +8,7 @@ I'm **Amarjeet**, a **Business & Data Analyst** with 3+ years of experience tran
 
 🎓 Currently pursuing an **MS in Business Analytics** at CSU East Bay, with a focus on predictive analytics and machine learning.
 
-📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/amarjeet01p/) | a16@horizon.csueastbay.edu
+📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/amarjeet01p/) | amarjeet01p@gmail.com
 
 ---
 
