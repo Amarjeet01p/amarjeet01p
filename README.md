@@ -2,7 +2,7 @@
 
 *"Data beats opinion — and I love turning data into direction."*
 
-I'm **Amarjeet**, a **Business & Data Analyst** with 3+ years of experience transforming enterprise operations through CRM/ERP integration, analytics, and automation.
+I'm **Amarjeet**, a **Business & Data Analyst** with 5+ years of experience transforming enterprise operations through CRM/ERP integration, analytics, and automation.
 
 I work with tools like **Salesforce, SQL, Power BI, Tableau, and Python**, and specialize in cross-functional projects involving **data strategy, process optimization, and dashboard development**.
 
