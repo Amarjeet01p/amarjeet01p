@@ -1,6 +1,6 @@
 ### 👋 Hello There, Welcome!
 
-*"Data beats opinion — and I love turning data into direction."*
+*"Data beats opinion - and I love turning data into direction."*
 
 I'm **Amarjeet**, a **Business & Data Analyst** with 5+ years of experience transforming enterprise operations through CRM/ERP integration, analytics, and automation.
 
